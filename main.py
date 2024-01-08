@@ -165,3 +165,6 @@ while playing:
 
     # Видалення бонусів, які виходять за межі екрану
     bonuses = [bonus for bonus in bonuses if bonus[1].top < HEIGHT]
+
+
+    """Just comment """
